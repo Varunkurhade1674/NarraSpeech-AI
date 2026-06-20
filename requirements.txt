@@ -1,0 +1,7 @@
+transformers
+torch
+langchain
+langchain-ollama
+python-dotenv
+streamlit
+pyttsx3
